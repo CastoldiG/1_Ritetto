@@ -1,0 +1,140 @@
+{
+  "nome": "Ritetto",
+  "colore": "#1025c6",
+  "luogo": {
+    "italia": false,
+    "città": "Gropello Cairoli, via Don Motti, 51",
+    "raggio": 30
+  },
+  "descrizione_attività": "Ristrutturazione tetti senza ponteggi",
+  "descrizione_migliorata": "Ristrutturazione tetti senza ponteggi",
+  "domande_GenAI": [],
+  "slider": {
+    "classicModern": 2,
+    "traditionalInnovative": 2,
+    "funSerious": 2,
+    "simpleSophisticated": 2
+  },
+  "foto": {
+    "elenco": [
+      "photo_5774826616487261917_y.jpg",
+      "photo_6047350417496586157_y.jpg",
+      "photo_6047454729367303657_y.jpg"
+    ],
+    "copertina": "photo_5774826616487261917_y.jpg",
+    "visibilità": true,
+    "galleria_imm": "photo_5774826616487261917_y.jpg,photo_6047350417496586157_y.jpg,photo_6047454729367303657_y.jpg",
+    "copertina_posiz": 0
+  },
+  "logo": "images.png",
+  "form": {
+    "campi": "castoldigabriele@gmail.com",
+    "whatsapp": "3246912219",
+    "telefono": "3246912219"
+  },
+  "box": {
+    "variabile": "Perché Scegliere Ritetto: I Vantaggi Esclusivi della Nostra Soluzione",
+    "titoli": [
+      "Zero Ponteggi, Zero Disagi",
+      "Sicurezza e Velocità Ineguagliabili",
+      "Risparmio Garantito, Durata nel Tempo",
+      "Tecnologia Innovativa al Tuo Servizio"
+    ],
+    "descrizioni": [
+      "Dimentica i ponteggi invasivi! Con Ritetto, la <b>ristrutturazione del tuo tetto</b> avviene in modo rapido e pulito, senza disturbare la tua quotidianità e quella dei tuoi vicini. Massima efficienza e minimo impatto visivo, per un risultato impeccabile.",
+      "La nostra tecnica all'avanguardia garantisce la massima <b>sicurezza</b> per i nostri operatori e per la tua proprietà. Riduciamo drasticamente i tempi di intervento, completando i lavori in modo efficiente e professionale, senza compromettere la qualità.",
+      "Eliminando i costi legati al montaggio e smontaggio dei ponteggi, ti offriamo un <b>risparmio significativo</b> sul costo totale della ristrutturazione. Inoltre, l'utilizzo di materiali di alta qualità assicura una lunga durata nel tempo, proteggendo il tuo investimento.",
+      "Utilizziamo <b>tecnologie all'avanguardia</b> e tecniche di lavoro innovative per la ristrutturazione del tuo tetto. Questo ci permette di operare in modo più sicuro, veloce e preciso, garantendo un risultato finale di altissima qualità e performance."
+    ]
+  },
+  "elenco": {
+    "variabile": "Ritetto: Scopri Cosa Rende Unica la Nostra Ristrutturazione Tetti Senza Ponteggi",
+    "titoli": [
+      "<b>Ristrutturazione Tetti</b> Rapida e Senza Ponteggi",
+      "Massima <b>Sicurezza</b> per la Tua Casa e per i Nostri Tecnici",
+      "<b>Risparmio</b> sui Costi, Qualità Superiore Garantita",
+      "Interventi Efficaci Anche in <b>Spazi Difficili</b>",
+      "<b>Meno Invasività</b>, Più Rispetto per la Tua Proprietà",
+      "<b>Tecnologie Avanzate</b> per un Tetto Perfetto",
+      "<b>Sopralluogo Gratuito</b> e Preventivo Personalizzato"
+    ]
+  },
+  "hero_section": {
+    "titolo_paragrafo": "La Soluzione Innovativa per il Tuo Tetto",
+    "descrizione_paragrafo": "Ritetto è l'azienda specializzata nella <b>ristrutturazione di tetti senza ponteggi</b> a Gropello Cairoli e in un raggio di 30 km. </br>Grazie alla nostra tecnica innovativa, eliminiamo i disagi dei ponteggi, offrendo un servizio <b>più rapido, sicuro ed economico</b>. </br>Ci occupiamo di ogni dettaglio, dal sopralluogo gratuito alla realizzazione finale, garantendo un risultato impeccabile e duraturo. </br>Scegli Ritetto per un tetto nuovo, <b>senza stress</b> e con la certezza di un lavoro eseguito a regola d'arte. <b>Contattaci oggi stesso</b> per un preventivo personalizzato!",
+    "headline": "Ristruttura il tuo tetto <b>senza ponteggi</b>, facile, veloce e sicuro!",
+    "sub-headline": "Trasforma il tuo tetto a Gropello Cairoli e dintorni, senza disagi e con un risparmio garantito."
+  },
+  "CJ": {
+    "visibilità": true,
+    "descrizioni": [
+      "<b>Richiedi un sopralluogo gratuito</b>: Scopri lo stato del tuo tetto e ricevi un preventivo personalizzato senza impegno.",
+      "<b>Definisci il tuo progetto</b>: Scegli i materiali e le finiture che preferisci con il supporto dei nostri esperti.",
+      "<b>Ristrutturazione senza ponteggi</b>: Goditi un intervento rapido, sicuro e senza disagi, eseguito da professionisti qualificati.",
+      "<b>Goditi il tuo nuovo tetto</b>: Proteggi la tua casa con un tetto resistente, bello e garantito nel tempo."
+    ]
+  },
+  "offerta": {
+    "visibilità": "Affidati a Ritetto e avrai <b>10 anni di garanzia</b> sul tuo nuovo tetto! Protezione completa contro infiltrazioni e danni strutturali.",
+    "titolo": "Garanzia Totale",
+    "descrizione": "Affidati a Ritetto e avrai <b>10 anni di garanzia</b> sul tuo nuovo tetto! Protezione completa contro infiltrazioni e danni strutturali."
+  },
+  "logo_imm": "",
+  "recensioni": {
+    "visibilità": true,
+    "nome": [
+      "Marco Rossi",
+      "Giulia Bianchi",
+      "Luca Ferrari"
+    ],
+    "stelle": [
+      5,
+      4,
+      5
+    ],
+    "descrizioni": [
+      "Servizio impeccabile! Hanno ristrutturato il tetto in tempi record, senza ponteggi e senza creare alcun disagio. Consigliatissimi!",
+      "Ottimo lavoro! Il tetto è come nuovo e finalmente non ho più infiltrazioni. Unica pecca, un piccolo ritardo nella consegna dei materiali. Comunque, molto soddisfatta!",
+      "Professionisti seri e competenti. Hanno rispettato i tempi e il preventivo. Il risultato è perfetto, il tetto è solido e resistente. Davvero bravi!"
+    ]
+  },
+  "google_ads": {
+    "keywords": [],
+    "titoli": [],
+    "descrizioni": [],
+    "mail_account": ""
+  },
+  "id": 1,
+  "immagini": [
+    {
+      "originalName": "photo_5774826616487261917_y.jpg",
+      "filename": "photo_5774826616487261917_y_1750705369607.jpg",
+      "uploadDate": "2025-06-23T19:02:49.615Z"
+    },
+    {
+      "originalName": "photo_6047350417496586157_y.jpg",
+      "filename": "photo_6047350417496586157_y_1750705369609.jpg",
+      "uploadDate": "2025-06-23T19:02:49.615Z"
+    },
+    {
+      "originalName": "photo_6047454729367303657_y.jpg",
+      "filename": "photo_6047454729367303657_y_1750705369613.jpg",
+      "uploadDate": "2025-06-23T19:02:49.615Z"
+    },
+    {
+      "originalName": "photo_5774826616487261917_y_1750705369607.jpg",
+      "filename": "photo_5774826616487261917_y_1750705369607_1750794466624.jpg",
+      "uploadDate": "2025-06-24T19:47:46.626Z"
+    },
+    {
+      "originalName": "WhatsApp Image 2025-05-28 at 21.07.12.jpg",
+      "filename": "WhatsApp Image 2025-05-28 at 21.07.12_1750881241669.jpg",
+      "uploadDate": "2025-06-25T19:54:01.683Z"
+    },
+    {
+      "originalName": "WhatsApp Image 2025-04-12 at 11.51.58.jpeg",
+      "filename": "WhatsApp Image 2025-04-12 at 11.51.58_1750881241676.jpeg",
+      "uploadDate": "2025-06-25T19:54:01.683Z"
+    }
+  ]
+}
